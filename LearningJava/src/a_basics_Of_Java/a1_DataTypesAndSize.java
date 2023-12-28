@@ -13,6 +13,6 @@ public class a1_DataTypesAndSize {
 	 * char  -  2 bytes
 	.............. */
 	
-	
+	//Adding comment to test the synch and fetch
 	
 }
